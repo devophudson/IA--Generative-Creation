@@ -7,3 +7,5 @@ To run this tool, you need to have the following modules installed:
 - `streamlit`: Web application framework for building interactive web apps.
 - `streamlit_carousel`: Streamlit component for creating carousels.
 - `apikey`: Module containing your API key for accessing the OpenAI API.
+
+- `OBS:` : For use this code, you have to pay a your key API("you have to create your self api key, and billing to create images :( " )
