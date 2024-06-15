@@ -52,7 +52,7 @@ num_of_images = st.number_input("Select the number of images you want to generat
 
 if st.button("Generate Images"):
     
-    # generate_image=generate_images(img_description, num_of_images)
+# generate_image=generate_images(img_description, num_of_images)
     
     carousel(items=generate_image, width=1)
     
